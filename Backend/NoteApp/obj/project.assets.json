@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\project 1\\Backend\\NoteApp\\NoteApp.csproj",
+      "projectUniqueName": "C:\\full-stack-NOTE-APP\\Backend\\NoteApp\\NoteApp.csproj",
       "projectName": "NoteApp",
-      "projectPath": "C:\\project 1\\Backend\\NoteApp\\NoteApp.csproj",
+      "projectPath": "C:\\full-stack-NOTE-APP\\Backend\\NoteApp\\NoteApp.csproj",
       "packagesPath": "C:\\Users\\gowpreet\\.nuget\\packages\\",
-      "outputPath": "C:\\project 1\\Backend\\NoteApp\\obj\\",
+      "outputPath": "C:\\full-stack-NOTE-APP\\Backend\\NoteApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gowpreet\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -855,7 +855,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

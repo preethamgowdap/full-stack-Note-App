@@ -17,9 +17,7 @@ namespace NoteApp.Services
             
             _config = config;
         }
-
-       
-
+        
         public string? Login(UserDto userDto)
         {
            var user = Users.FirstOrDefault(u => 

@@ -42,3 +42,47 @@ C:\project 1\Backend\NoteApp\obj\Debug\net10.0\refint\NoteApp.dll
 C:\project 1\Backend\NoteApp\obj\Debug\net10.0\NoteApp.pdb
 C:\project 1\Backend\NoteApp\obj\Debug\net10.0\NoteApp.genruntimeconfig.cache
 C:\project 1\Backend\NoteApp\obj\Debug\net10.0\ref\NoteApp.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\appsettings.Development.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\appsettings.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\NoteApp.staticwebassets.endpoints.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\NoteApp.exe
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\NoteApp.deps.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\NoteApp.runtimeconfig.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\NoteApp.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\NoteApp.pdb
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.csproj.AssemblyReference.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.AssemblyInfoInputs.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.AssemblyInfo.cs
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.csproj.CoreCompileInputs.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.MvcApplicationPartsAssemblyInfo.cs
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.MvcApplicationPartsAssemblyInfo.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.sourcelink.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\scopedcss\bundle\NoteApp.styles.css
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.csproj.Up2Date
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\refint\NoteApp.dll
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.pdb
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\NoteApp.genruntimeconfig.cache
+C:\full-stack-NOTE-APP\Backend\NoteApp\obj\Debug\net10.0\ref\NoteApp.dll
